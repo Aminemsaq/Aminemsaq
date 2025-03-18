@@ -5,7 +5,7 @@
 Hello World! 🌍  
 I'm **Amine Msaq Leet**, a passionate **cybersecurity enthusiast** and **software developer** with a love for solving complex problems and building secure, scalable systems.  
 
-I’m currently pursuing my studies in **Cybersecurity** at the **Université Internationale de Rabat (UIR)**, where I’m diving deep into the world of network security, cryptography, and ethical hacking.  
+I’m currently pursuing my studies in **Cybersecurity** at the **International University of Rabat (UIR)**, where I’m diving deep into the world of network security, cryptography, and ethical hacking.  
 
 In parallel, I’m honing my skills in **software development** and **system design** at **1337 School**, part of the **42 Network**, where I’m exploring the art of building efficient and robust systems.  
 
